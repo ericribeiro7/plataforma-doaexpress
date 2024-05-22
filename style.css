@@ -513,6 +513,11 @@ footer{
         background-attachment: fixed;
     }
 
+    section {
+        padding: 3rem 1%;
+        width: 100%;
+    }
+
     .about-img img{
         display: none;
     }
@@ -683,6 +688,7 @@ footer{
 
     section {
         padding: 3rem 1%;
+        width: 100%;
     }
 
     .container {
@@ -706,6 +712,11 @@ footer{
 
     #menu-icon{
         display: none;
+    }
+
+    section {
+        padding: 3rem 1%;
+        width: 100%;
     }
 
     .logo{
